@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_local"
+        android:title="Local"
+        android:icon="@drawable/local"
+        />
+    <item
+        android:id="@+id/action_musics"
+        android:title="Musics"
+        android:icon="@drawable/music"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:title="settings"
+        android:icon="@drawable/settings"
+        />
+</menu>
