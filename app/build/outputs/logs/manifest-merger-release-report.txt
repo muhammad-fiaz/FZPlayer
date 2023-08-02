@@ -1,0 +1,1120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fa78d55b595582d5283300803e34e00c\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:review-ktx:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f8bd2ca62317c39db8f09d11a7c68899\transformed\jetified-review-ktx-2.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.play:review:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9cbc9fcc33a3cb4fcf468442306247af\transformed\jetified-review-2.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.preference:preference:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\92797ea30ff4b7ed8ef08eaa4287fe7a\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bbff8583d0f80b05d46c4685eec2d68b\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\40789fca0ee936daca8f6659a512170e\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2c0290ef748f9f8aca03e8c6cf757933\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0-alpha01] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a51b99ee0dc682596b1c9fd83c2fe23\transformed\material-1.7.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bc47b78e40ba19777ccacc1ede09708d\transformed\jetified-intentanimation-1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\051f6c964f9985322da19b955f0667ab\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:3:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3342fefd9efbd48191e450e6232089b\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e095eb2c79bea87e3b1c83e6d47fe665\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\835fc204c7e7be73c4220eed521fdc54\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3a31d749d2031980459dbea6d336492\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5c11d3151b9059905216377196b868c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\22e726540258391f609c0390099b93b6\transformed\jetified-firebase-analytics-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\88faabaebe655fff6ed3cf213ba1b7d1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3684a8ed9010ce2c5396f0de01e42947\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2789375dd2b301135875dc8c7bc99be4\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e253386daba91a1af533a6614fffcdd6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ebf58314e8ee9b8ed7baf36bc266992d\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c43be000567beb84a9bc6cf77c447d40\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\35a0f86aac80d9a9682ef1e0f29bf94c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a0c2f315c8346180966d31a85f78a3f2\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0cd7ad3fa701e3cbd515567bae42837a\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\090105aa5dbba0f284793b7f50a5b3bb\transformed\jetified-play-services-measurement-base-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dd2cf9d14c7239046141be690993e437\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fdeec30c0aeb9679b50280af95e92ba6\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf852dbc8a6308fe825f6312bd9b1609\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6acbd6041245164ee2f29ea00306e67c\transformed\navigation-common-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\8bc7a1633ef355d79bae2b327afabdff\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\30a1a8df3cb3844cf681ce9395479653\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4410fade3d0a66c1a82e4d619147190b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3ec69b388553a2dcc2fe91e09087faaf\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da58f6490323079d62e2ce6093789015\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fac94fa5bcd84fd21788dbc8bd5c54ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\106961af06d8840e1a590db5ba75389a\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3c6c020fca53abdbf57861d5288c900\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09948fa10821f87e765932f6136e1dd1\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f562f6752077243a0f8b1731815647b\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d44599d5ffc077d2ba06451020884206\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d339b11e908de71199764145e97a181a\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e85dcc08eb9d1af708cddbf47cd99b42\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\53d48016f386ab34f4984bc586ce3ee9\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cd329df68e21c2ea7061a09deb0e34d4\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [io.grpc:grpc-android:1.44.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\87cef98397f374e44ad836fdca48ef0b\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.activity:activity:1.2.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\42c473f030ff11be82ef72598b81da1e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\acd3c709a66be0da48461d75e9292f33\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c3da226b8b6f67df0e560421a2c09a66\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf286d25695fe6fd5e21e255b72e9f21\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d7a72f380b00807426b9250e3efb5620\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\125c6bac055973380495749be48bca81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a9774a52f61ebb43f8948a4496012205\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\07a6fa78eb5a25b445654a1031993085\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e316eb9f064fde976f1c22d5aab70ad9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c5c96481e814f7e76477fd764a5b0a11\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\498935f14f51ee712c2cfc3adc0b7741\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3adaa78428c6b1b9e5ce43236c40add3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c116a09049d3e5d7d820fa0e052ae93c\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\62be95118433b19a73ef951eff7b8efc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1193af284b85d482c37ee5c86135d10b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\15bf20120eecbc3fda69d420c3ba55f7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ada8811a5dbcb5b06df47f1e67118eff\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da4f4f45a17cb1d4e6f3c1003d340496\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ca2c7eb7410cfe48232705e43a97f105\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\629573a6d919d58effa843f657f41bca\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\b52128360f8ba48c4c9bfba485a21556\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\652ff82b694fc1469669a52fa500ddc6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5398752e9e5c94f20abbc9f631e8a891\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3b3c264ca818832e9e2bd856723a27b\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6ab18e08fefc38ed09df1fa8616030c0\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dc34f24d490525fe277a58b4b9fff9a6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d62f974e11c6d74a38c190fa9bf6a1c0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\065e555d49263b472e409e463440ff7c\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\45f743dcaa6bf418fbfa03a6dfdc9406\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7b0e8a84c04b9c63687b47bb12e81a83\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9c56126ef5887e994b6dd3fc0ff0138a\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6d8cc2ca5bf8037048d3665f73dd7130\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7aff990369e8f750ac225d2c1ceb3f63\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6d0963174d9403908795d0bd852bfe4\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\89fbb1b9d4207d33c08a0b75f66ce9b4\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09570d5dcf67c7c37902a18df5b4dda0\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3526397db16f5844356f4ad807e06081\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\54939378e6583ff20c471850f7523165\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7f1cc77a94af20e108b96218682623b3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d93b8e1386156139f146c5787862a1bb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d6da7d0023ee044578a68defbce3fc9f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ea45850f6712d4741e9a362f79add4c4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\387bda3d42617dba1cc7f54f0616ad7a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3cf2e6a71ad08db55604d2579385d472\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d1d1ef58e774278ab4b7c363a663a941\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+	package
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:2:1-129:12
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:5:5-78
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:9:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:9:5-11:47
+	tools:ignore
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:10:9-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:12:5-80
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:11:5-80
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cd329df68e21c2ea7061a09deb0e34d4\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cd329df68e21c2ea7061a09deb0e34d4\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\87cef98397f374e44ad836fdca48ef0b\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\87cef98397f374e44ad836fdca48ef0b\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6d8cc2ca5bf8037048d3665f73dd7130\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6d8cc2ca5bf8037048d3665f73dd7130\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:16:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:17:5-81
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:12:5-81
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:19:5-127:19
+MERGED from [com.google.android.play:review-ktx:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f8bd2ca62317c39db8f09d11a7c68899\transformed\jetified-review-ktx-2.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.play:review-ktx:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f8bd2ca62317c39db8f09d11a7c68899\transformed\jetified-review-ktx-2.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.play:review:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9cbc9fcc33a3cb4fcf468442306247af\transformed\jetified-review-2.0.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:review:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9cbc9fcc33a3cb4fcf468442306247af\transformed\jetified-review-2.0.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.material:material:1.7.0-alpha01] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a51b99ee0dc682596b1c9fd83c2fe23\transformed\material-1.7.0-alpha01\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0-alpha01] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a51b99ee0dc682596b1c9fd83c2fe23\transformed\material-1.7.0-alpha01\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\051f6c964f9985322da19b955f0667ab\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\051f6c964f9985322da19b955f0667ab\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:13:5-27:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e095eb2c79bea87e3b1c83e6d47fe665\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e095eb2c79bea87e3b1c83e6d47fe665\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\835fc204c7e7be73c4220eed521fdc54\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\835fc204c7e7be73c4220eed521fdc54\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\22e726540258391f609c0390099b93b6\transformed\jetified-firebase-analytics-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\22e726540258391f609c0390099b93b6\transformed\jetified-firebase-analytics-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3684a8ed9010ce2c5396f0de01e42947\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3684a8ed9010ce2c5396f0de01e42947\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e253386daba91a1af533a6614fffcdd6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e253386daba91a1af533a6614fffcdd6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ebf58314e8ee9b8ed7baf36bc266992d\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ebf58314e8ee9b8ed7baf36bc266992d\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c43be000567beb84a9bc6cf77c447d40\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c43be000567beb84a9bc6cf77c447d40\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\35a0f86aac80d9a9682ef1e0f29bf94c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\35a0f86aac80d9a9682ef1e0f29bf94c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a0c2f315c8346180966d31a85f78a3f2\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a0c2f315c8346180966d31a85f78a3f2\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0cd7ad3fa701e3cbd515567bae42837a\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0cd7ad3fa701e3cbd515567bae42837a\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\090105aa5dbba0f284793b7f50a5b3bb\transformed\jetified-play-services-measurement-base-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\090105aa5dbba0f284793b7f50a5b3bb\transformed\jetified-play-services-measurement-base-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\89fbb1b9d4207d33c08a0b75f66ce9b4\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\89fbb1b9d4207d33c08a0b75f66ce9b4\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\54939378e6583ff20c471850f7523165\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\54939378e6583ff20c471850f7523165\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:23:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:22:9-34
+	tools:ignore
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:28:9-48
+	android:roundIcon
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:24:9-48
+	android:icon
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:26:9-41
+	tools:replace
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:29:9-58
+	android:usesCleartextTraffic
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:27:9-44
+activity#com.data.fzplayer.appinfo.FeedBackIssues
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:31:13-51
+activity#com.data.fzplayer.appinfo.HelpActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:34:13-49
+activity#com.data.fzplayer.appinfo.VersionLog
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:37:13-47
+activity#com.data.fzplayer.appinfo.WhatsNew
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:39:9-41:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:40:13-45
+activity#com.data.fzplayer.appinfo.AppInfo
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:43:13-44
+activity#com.data.fzplayer.appinfo.AppLicense
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:46:13-47
+activity#com.data.fzplayer.fzstream.PlayStreamingVideo
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:49:13-56
+activity#com.data.fzplayer.fzstream.GetUrlFromUser
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:51:9-53:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:52:13-52
+activity#com.data.fzplayer.fzstream.StreamFromUrl
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:55:13-51
+activity#com.data.fzplayer.fzmusicplayer.MusicPlayerActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:57:9-71
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:57:19-68
+activity#com.data.fzplayer.fzmusicplayer.MainActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:58:9-61:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:60:13-36
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:59:13-55
+activity#com.data.fzplayer.fzplayer.DeleteItemsActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:62:9-64:40
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:63:13-57
+activity#com.data.fzplayer.fzplayer.SettingsActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:65:9-69:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:68:13-36
+	android:configChanges
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:67:13-74
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:66:13-54
+activity#com.data.fzplayer.fzplayer.SoundView
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:70:9-73:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:72:13-36
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:73:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:71:13-47
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:75:9-77:36
+	android:value
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:77:13-33
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:76:13-67
+meta-data#firebase_performance_logcat_enabled
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:78:9-80:36
+	android:value
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:80:13-33
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:79:13-63
+activity#com.data.fzplayer.fzplayer.FolderActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:82:9-96:20
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:85:13-36
+	android:configChanges
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:84:13-74
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:86:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:83:13-52
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:video/*+data:scheme:content+data:scheme:file
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:87:13-95:29
+action#android.intent.action.VIEW
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:88:17-69
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:88:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:90:17-76
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:90:27-73
+data
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:92:17-52
+	android:scheme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:93:23-47
+	android:mimeType
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:92:23-49
+activity#com.data.fzplayer.fzplayer.MainActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:97:9-100:39
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:100:13-36
+	android:configChanges
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:98:13-50
+activity#com.data.fzplayer.fzplayer.PrivacyActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:101:9-104:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:103:13-36
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:104:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:102:13-53
+activity#com.data.fzplayer.fzplayer.NavigationBar
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:105:9-108:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:107:13-36
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:108:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:106:13-51
+activity#com.data.fzplayer.fzplayer.MediaActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:109:9-113:50
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:112:13-36
+	android:configChanges
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:113:13-47
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:110:13-51
+activity#com.data.fzplayer.fzplayer.SplashScreenActivity
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:114:9-122:20
+	android:exported
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:115:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:117:13-121:29
+action#android.intent.action.MAIN
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:118:17-69
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:118:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:120:17-77
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:120:27-74
+meta-data#preloaded_fonts
+ADDED from D:\FZ\source\src\main\AndroidManifest.xml:124:9-126:57
+	android:resource
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:126:13-54
+	android:name
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml:125:13-43
+uses-sdk
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fa78d55b595582d5283300803e34e00c\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fa78d55b595582d5283300803e34e00c\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:review-ktx:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f8bd2ca62317c39db8f09d11a7c68899\transformed\jetified-review-ktx-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review-ktx:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f8bd2ca62317c39db8f09d11a7c68899\transformed\jetified-review-ktx-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9cbc9fcc33a3cb4fcf468442306247af\transformed\jetified-review-2.0.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:review:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9cbc9fcc33a3cb4fcf468442306247af\transformed\jetified-review-2.0.0\AndroidManifest.xml:4:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a5bbabeb9598ec21bae4d6bfebbcfb84\transformed\jetified-core-11.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.TutorialsAndroid:FilePicker:v8.0.19] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\19e9292f3a8f5082dcb92ca4b59e9638\transformed\jetified-FilePicker-v8.0.19\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\92797ea30ff4b7ed8ef08eaa4287fe7a\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\92797ea30ff4b7ed8ef08eaa4287fe7a\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bbff8583d0f80b05d46c4685eec2d68b\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bbff8583d0f80b05d46c4685eec2d68b\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\40789fca0ee936daca8f6659a512170e\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\40789fca0ee936daca8f6659a512170e\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2c0290ef748f9f8aca03e8c6cf757933\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2c0290ef748f9f8aca03e8c6cf757933\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0-alpha01] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a51b99ee0dc682596b1c9fd83c2fe23\transformed\material-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0-alpha01] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a51b99ee0dc682596b1c9fd83c2fe23\transformed\material-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bc47b78e40ba19777ccacc1ede09708d\transformed\jetified-intentanimation-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bc47b78e40ba19777ccacc1ede09708d\transformed\jetified-intentanimation-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\051f6c964f9985322da19b955f0667ab\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\051f6c964f9985322da19b955f0667ab\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3342fefd9efbd48191e450e6232089b\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3342fefd9efbd48191e450e6232089b\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e095eb2c79bea87e3b1c83e6d47fe665\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e095eb2c79bea87e3b1c83e6d47fe665\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\835fc204c7e7be73c4220eed521fdc54\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\835fc204c7e7be73c4220eed521fdc54\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3a31d749d2031980459dbea6d336492\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3a31d749d2031980459dbea6d336492\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5c11d3151b9059905216377196b868c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5c11d3151b9059905216377196b868c4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\22e726540258391f609c0390099b93b6\transformed\jetified-firebase-analytics-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\22e726540258391f609c0390099b93b6\transformed\jetified-firebase-analytics-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\88faabaebe655fff6ed3cf213ba1b7d1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\88faabaebe655fff6ed3cf213ba1b7d1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3684a8ed9010ce2c5396f0de01e42947\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3684a8ed9010ce2c5396f0de01e42947\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2789375dd2b301135875dc8c7bc99be4\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2789375dd2b301135875dc8c7bc99be4\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e253386daba91a1af533a6614fffcdd6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e253386daba91a1af533a6614fffcdd6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ebf58314e8ee9b8ed7baf36bc266992d\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ebf58314e8ee9b8ed7baf36bc266992d\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c43be000567beb84a9bc6cf77c447d40\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c43be000567beb84a9bc6cf77c447d40\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\35a0f86aac80d9a9682ef1e0f29bf94c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\35a0f86aac80d9a9682ef1e0f29bf94c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a0c2f315c8346180966d31a85f78a3f2\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a0c2f315c8346180966d31a85f78a3f2\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0cd7ad3fa701e3cbd515567bae42837a\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0cd7ad3fa701e3cbd515567bae42837a\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b2d234cc2cd8f7e0a72efbde1456251\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4111eb68952803438cb05e8ee4254ab9\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\090105aa5dbba0f284793b7f50a5b3bb\transformed\jetified-play-services-measurement-base-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\090105aa5dbba0f284793b7f50a5b3bb\transformed\jetified-play-services-measurement-base-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dd2cf9d14c7239046141be690993e437\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dd2cf9d14c7239046141be690993e437\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fdeec30c0aeb9679b50280af95e92ba6\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fdeec30c0aeb9679b50280af95e92ba6\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf852dbc8a6308fe825f6312bd9b1609\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf852dbc8a6308fe825f6312bd9b1609\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6acbd6041245164ee2f29ea00306e67c\transformed\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6acbd6041245164ee2f29ea00306e67c\transformed\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\8bc7a1633ef355d79bae2b327afabdff\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\8bc7a1633ef355d79bae2b327afabdff\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\30a1a8df3cb3844cf681ce9395479653\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\30a1a8df3cb3844cf681ce9395479653\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4410fade3d0a66c1a82e4d619147190b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\4410fade3d0a66c1a82e4d619147190b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3ec69b388553a2dcc2fe91e09087faaf\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3ec69b388553a2dcc2fe91e09087faaf\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da58f6490323079d62e2ce6093789015\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da58f6490323079d62e2ce6093789015\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fac94fa5bcd84fd21788dbc8bd5c54ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\fac94fa5bcd84fd21788dbc8bd5c54ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\106961af06d8840e1a590db5ba75389a\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\106961af06d8840e1a590db5ba75389a\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3c6c020fca53abdbf57861d5288c900\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e3c6c020fca53abdbf57861d5288c900\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09948fa10821f87e765932f6136e1dd1\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09948fa10821f87e765932f6136e1dd1\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f562f6752077243a0f8b1731815647b\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f562f6752077243a0f8b1731815647b\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d44599d5ffc077d2ba06451020884206\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d44599d5ffc077d2ba06451020884206\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d339b11e908de71199764145e97a181a\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d339b11e908de71199764145e97a181a\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e85dcc08eb9d1af708cddbf47cd99b42\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e85dcc08eb9d1af708cddbf47cd99b42\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\53d48016f386ab34f4984bc586ce3ee9\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\53d48016f386ab34f4984bc586ce3ee9\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cd329df68e21c2ea7061a09deb0e34d4\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cd329df68e21c2ea7061a09deb0e34d4\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.44.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\87cef98397f374e44ad836fdca48ef0b\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\87cef98397f374e44ad836fdca48ef0b\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity:1.2.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\42c473f030ff11be82ef72598b81da1e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\42c473f030ff11be82ef72598b81da1e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\acd3c709a66be0da48461d75e9292f33\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\acd3c709a66be0da48461d75e9292f33\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c3da226b8b6f67df0e560421a2c09a66\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c3da226b8b6f67df0e560421a2c09a66\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf286d25695fe6fd5e21e255b72e9f21\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\bf286d25695fe6fd5e21e255b72e9f21\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d7a72f380b00807426b9250e3efb5620\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d7a72f380b00807426b9250e3efb5620\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\125c6bac055973380495749be48bca81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\125c6bac055973380495749be48bca81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a9774a52f61ebb43f8948a4496012205\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\a9774a52f61ebb43f8948a4496012205\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\07a6fa78eb5a25b445654a1031993085\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\07a6fa78eb5a25b445654a1031993085\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e316eb9f064fde976f1c22d5aab70ad9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\e316eb9f064fde976f1c22d5aab70ad9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c5c96481e814f7e76477fd764a5b0a11\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c5c96481e814f7e76477fd764a5b0a11\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\498935f14f51ee712c2cfc3adc0b7741\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\498935f14f51ee712c2cfc3adc0b7741\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3adaa78428c6b1b9e5ce43236c40add3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3adaa78428c6b1b9e5ce43236c40add3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c116a09049d3e5d7d820fa0e052ae93c\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c116a09049d3e5d7d820fa0e052ae93c\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\62be95118433b19a73ef951eff7b8efc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\62be95118433b19a73ef951eff7b8efc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1193af284b85d482c37ee5c86135d10b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1193af284b85d482c37ee5c86135d10b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\15bf20120eecbc3fda69d420c3ba55f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\15bf20120eecbc3fda69d420c3ba55f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ada8811a5dbcb5b06df47f1e67118eff\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ada8811a5dbcb5b06df47f1e67118eff\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da4f4f45a17cb1d4e6f3c1003d340496\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\da4f4f45a17cb1d4e6f3c1003d340496\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ca2c7eb7410cfe48232705e43a97f105\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ca2c7eb7410cfe48232705e43a97f105\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\629573a6d919d58effa843f657f41bca\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\629573a6d919d58effa843f657f41bca\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\b52128360f8ba48c4c9bfba485a21556\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\b52128360f8ba48c4c9bfba485a21556\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\652ff82b694fc1469669a52fa500ddc6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\652ff82b694fc1469669a52fa500ddc6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5398752e9e5c94f20abbc9f631e8a891\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5398752e9e5c94f20abbc9f631e8a891\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3b3c264ca818832e9e2bd856723a27b\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d3b3c264ca818832e9e2bd856723a27b\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6ab18e08fefc38ed09df1fa8616030c0\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6ab18e08fefc38ed09df1fa8616030c0\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dc34f24d490525fe277a58b4b9fff9a6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\dc34f24d490525fe277a58b4b9fff9a6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d62f974e11c6d74a38c190fa9bf6a1c0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d62f974e11c6d74a38c190fa9bf6a1c0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\065e555d49263b472e409e463440ff7c\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\065e555d49263b472e409e463440ff7c\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\45f743dcaa6bf418fbfa03a6dfdc9406\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\45f743dcaa6bf418fbfa03a6dfdc9406\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7b0e8a84c04b9c63687b47bb12e81a83\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7b0e8a84c04b9c63687b47bb12e81a83\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9c56126ef5887e994b6dd3fc0ff0138a\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9c56126ef5887e994b6dd3fc0ff0138a\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6d8cc2ca5bf8037048d3665f73dd7130\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6d8cc2ca5bf8037048d3665f73dd7130\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7aff990369e8f750ac225d2c1ceb3f63\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7aff990369e8f750ac225d2c1ceb3f63\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6d0963174d9403908795d0bd852bfe4\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6d0963174d9403908795d0bd852bfe4\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\89fbb1b9d4207d33c08a0b75f66ce9b4\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\89fbb1b9d4207d33c08a0b75f66ce9b4\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09570d5dcf67c7c37902a18df5b4dda0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\09570d5dcf67c7c37902a18df5b4dda0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3526397db16f5844356f4ad807e06081\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3526397db16f5844356f4ad807e06081\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\54939378e6583ff20c471850f7523165\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\54939378e6583ff20c471850f7523165\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7f1cc77a94af20e108b96218682623b3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7f1cc77a94af20e108b96218682623b3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d93b8e1386156139f146c5787862a1bb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d93b8e1386156139f146c5787862a1bb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d6da7d0023ee044578a68defbce3fc9f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d6da7d0023ee044578a68defbce3fc9f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ea45850f6712d4741e9a362f79add4c4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\ea45850f6712d4741e9a362f79add4c4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\387bda3d42617dba1cc7f54f0616ad7a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\387bda3d42617dba1cc7f54f0616ad7a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3cf2e6a71ad08db55604d2579385d472\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3cf2e6a71ad08db55604d2579385d472\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d1d1ef58e774278ab4b7c363a663a941\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d1d1ef58e774278ab4b7c363a663a941\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+		ADDED from D:\FZ\source\src\main\AndroidManifest.xml
+		INJECTED from D:\FZ\source\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:20:9-26:19
+MERGED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:20:9-26:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:13:13-84
+meta-data#com.google.firebase.components:com.google.firebase.perf.ktx.FirebasePerfKtxRegistrar
+ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:16:17-116
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:14:9-18:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:16:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:17:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:15:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:23:13-25:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:25:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:24:17-109
+meta-data#com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:30:17-126
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f625ffe68e022264c7b591fd54514e0b\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:45:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:13-50:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:49:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:21:17-111
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:15:13-93
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:28:17-130
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:33:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:14:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\024d325c208662927e3d128f20ab91ab\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f3d8d44694e2b4625ea749d3d9a9212\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:33:13-132

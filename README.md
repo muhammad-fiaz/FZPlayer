@@ -1,18 +1,40 @@
-# Fz Player - Version 1.0.0-release
+# Fz Player
+
+The Fz Player is a video player designed for Android devices, providing a user-friendly and feature-rich video playback experience. 
+This video player is currently in the beta version, actively undergoing development and improvements.
+
+## About FZ Player
+
+Fz Player is built using ExoPlayer, a powerful open-source media player library for Android developed by Google. ExoPlayer provides a flexible and customizable framework for playing audio and video, both locally and over the internet. For the latest updates and documentation, please visit the official ExoPlayer [GitHub repository](https://github.com/google/ExoPlayer).
+
+Feel free to explore the Fz Player repository, try out the beta version, and provide valuable feedback to help enhance the player's performance and usability.
+
+Enjoy your seamless video playback experience with Fz Player!
+
+## Features
+
+- Smooth and seamless video playback: Enjoy uninterrupted video playback without any stutter or lag.
+- Support for various video formats: Fz Player supports a wide range of video formats, ensuring compatibility with your media files.
+- Intuitive user interface: The app offers an intuitive interface that makes navigation and control easy for all users.
+- Playback controls: Easily control your video playback with options like play, pause, forward, and rewind.
+- Volume and brightness adjustment: Adjust the volume and brightness directly within the player for a customized viewing experience.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/muhammad-fiaz/FzPlayer.git
+
+2. Open the project in Android Studio.
+3. Connect your Android device or start an emulator.
+4. Build and run the app on your device or emulator.
 
 
-The Fz Player is an Indian Video Player developed by Fiaz, an Indian developer.
-Its current supported platform is Android. It is still under development in the beta version. 
-I will try my best to improve the user experience.
+## Contributing
 
-Github: [https://github.com/muhammad-fiaz/FzPlayer]
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. and make sure to follow the [project guidelines](CODE_OF_CONDUCT.md)
 
+## License
 
-# WhatsNew
-
-1.First Released Version
-2.Improves User Interfaces
-3.Improves performance
-4.Fixed Major Bugs
-5.Improves playback experience
-6.added some features
+This project is licensed under the Apache License, Version 2.0. You can find more details in the [LICENSE](LICENSE) file.

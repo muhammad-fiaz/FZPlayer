@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "3586924443",
+    "project_id": "fiaz-projects",
+    "storage_bucket": "fiaz-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3586924443:android:eb4683d6a9049e2cfccb3e",
+        "android_client_info": {
+          "package_name": "com.data.fzplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3586924443-2igkung0bv0eb914apq58vjdsgh6bpeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.data.fzplayer",
+            "certificate_hash": "70845189c88ea9e9b1e05636f5c7945b17a14734"
+          }
+        },
+        {
+          "client_id": "3586924443-garhfu9ot6no0l6o3ni53q2larr01hon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.data.fzplayer",
+            "certificate_hash": "dd88641c4f806c9094dab265d2d17e8c3a2ae1da"
+          }
+        },
+        {
+          "client_id": "3586924443-und5nornifoeoscj8g7123eegkbsg43g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.data.fzplayer",
+            "certificate_hash": "4d8221593f8dae17eac1380ce6d4afcea5ea6e31"
+          }
+        },
+        {
+          "client_id": "3586924443-veqbl9tictss8kccp6u88hpsbma4fajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKtKBHILhYlWEBzxZ5xITShMcg78QMzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3586924443-veqbl9tictss8kccp6u88hpsbma4fajd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3586924443:android:963eae6cfb4b355ffccb3e",
+        "android_client_info": {
+          "package_name": "dev.fiaz.fzplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3586924443-veqbl9tictss8kccp6u88hpsbma4fajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKtKBHILhYlWEBzxZ5xITShMcg78QMzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3586924443-veqbl9tictss8kccp6u88hpsbma4fajd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widthmeasure">180dp</dimen>
+    <dimen name="spacing">12dp</dimen>
+    <dimen name="bottomspacesmall">16dp</dimen>
+    <dimen name="bottomspacelarge">90dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<lint-module
+    format="1"
+    dir="D:\FZ\source"
+    name=":source"
+    type="APP"
+    maven="FZ Player:source:"
+    gradle="7.2.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\Dr.HarrisonWells\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\Dr.HarrisonWells\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-32">
+  <lintOptions
+      checkDependencies="true"
+      disable="TypographyFractions,TypographyQuotes"
+      enable="RtlHardcoded,RtlCompat,RtlEnabled"
+      check="TypographyFractions,TypographyQuotes"
+      absolutePaths="true"
+      quiet="true"
+      ignoreWarnings="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="RtlCompat"
+        severity="DEFAULT_ENABLED" />
+      <severity
+        id="RtlEnabled"
+        severity="DEFAULT_ENABLED" />
+      <severity
+        id="RtlHardcoded"
+        severity="DEFAULT_ENABLED" />
+      <severity
+        id="TypographyFractions"
+        severity="IGNORE" />
+      <severity
+        id="TypographyQuotes"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
