@@ -1,4 +1,4 @@
-# Fz Player
+# [Fz Player](https://github.com/muhammad-fiaz/FZPlayer)
 
 The Fz Player is a video player designed for Android devices, providing a user-friendly and feature-rich video playback experience. 
 **This video player is currently in the beta version, actively undergoing development and improvements.**
