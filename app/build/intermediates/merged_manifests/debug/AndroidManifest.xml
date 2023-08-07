@@ -36,13 +36,16 @@
         android:theme="@style/maintheme"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.data.fzplayer.main.activities.AppinfoActivity"
+            android:exported="false" />
+        <activity
             android:name="com.data.fzplayer.main.activities.SettingsActivity"
             android:exported="false" />
         <activity
             android:name="com.data.fzplayer.main.activities.DeleteItemsActivity"
             android:exported="false" />
         <activity
-            android:name="com.data.fzplayer.main.utils.SoundView"
+            android:name="com.data.fzplayer.main.utils.SoundViewModel"
             android:exported="true"
             android:theme="@style/foldertheme" />
 
@@ -73,7 +76,7 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true" />
         <activity
-            android:name="com.data.fzplayer.main.activities.PrivacyActivity"
+            android:name="com.data.fzplayer.main.activities.LicenseActivity"
             android:exported="true"
             android:theme="@style/foldertheme" />
         <activity

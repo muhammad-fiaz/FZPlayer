@@ -1,110 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\landscapemode.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\landscapemode.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_folder.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_folder.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_music_player.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_music_player.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_appinfo.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_appinfo.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_app_info.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_app_info.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/utils_videoitem.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/utils_videoitem.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_delete_items.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_delete_items.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/utils_folderitem.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/utils_folderitem.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\utils_folderitem.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\utils_folderitem.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_media.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_media.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_app_license.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_app_license.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_splash_screen.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\utils_videoitem.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\utils_videoitem.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_delete_items.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_delete_items.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/landscapemode.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/landscapemode.xml"
     },
     {
         "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_settings.xml",
         "source": "com.data.fzplayer.app-main-51:/layout/activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_stream_from_url.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_stream_from_url.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_bottom_bar_main.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_bottom_bar_main.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/activity_privacy.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/activity_privacy.xml"
     },
     {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_settings.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_whats_new.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_whats_new.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_play_streaming_video.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_play_streaming_video.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_media.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_splash_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_inapp_review.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_inapp_review.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_version_log.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_version_log.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\myvideo.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\myvideo.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\videoitem.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\videoitem.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_main_music.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_main_music.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_get_url_from_user.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_get_url_from_user.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_folder.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_folder.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\activity_privacy.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\activity_privacy.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\folderitem.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\folderitem.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\recycler_item.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\recycler_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-mergeDebugResources-48:\\layout\\myland.xml",
-        "source": "C:\\Users\\smuha\\.gradle\\daemon\\8.1.1\\com.data.fzplayer.app-main-51:\\layout\\myland.xml"
+        "merged": "com.data.fzplayer.app-mergeDebugResources-48:/layout/myvideo.xml",
+        "source": "com.data.fzplayer.app-main-51:/layout/myvideo.xml"
     }
 ]

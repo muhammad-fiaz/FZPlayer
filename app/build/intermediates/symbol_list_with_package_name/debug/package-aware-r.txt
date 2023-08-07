@@ -2915,6 +2915,7 @@ drawable ic_baseline_skip_next_24
 drawable ic_baseline_skip_previous_24
 drawable ic_baseline_volume_off_24
 drawable ic_baseline_volume_up_24
+drawable ic_cap
 drawable ic_clock_black_24dp
 drawable ic_crop_white_24dp
 drawable ic_fit_to_screen
@@ -2925,6 +2926,7 @@ drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_menu
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -3113,7 +3115,6 @@ id beginning
 id bestChoice
 id blocking
 id bottom
-id bottom_navigation
 id bottomview
 id bounce
 id bounceBoth
@@ -3400,6 +3401,7 @@ id media_actions
 id media_controller_compat_view_tag
 id mediarecyclerview
 id menu_button
+id menu_icon
 id menu_root
 id message
 id middle
@@ -3784,6 +3786,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_appinfo
 layout activity_delete_items
 layout activity_folder
 layout activity_main
@@ -3936,6 +3939,7 @@ layout utils_videoitem
 menu bottom_navigation_menu
 menu example_menu
 menu example_menu2
+menu menu_main
 mipmap fzplayerlogo2
 mipmap fzplayerlogo3
 mipmap fzplayerlogo4

@@ -16,7 +16,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.data.fzplayer.R;
-import com.data.fzplayer.main.utils.SoundView;
+import com.data.fzplayer.main.utils.SoundViewModel;
 import com.google.android.exoplayer2.ui.PlayerView;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -48,7 +48,7 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView brightprogresstext;
 
   @NonNull
-  public final SoundView brightview;
+  public final SoundViewModel brightview;
 
   @NonNull
   public final LinearLayout continuelay;
@@ -135,13 +135,13 @@ public final class ActivityMainBinding implements ViewBinding {
   public final ImageView volumeicon;
 
   @NonNull
-  public final SoundView volumeview;
+  public final SoundViewModel volumeview;
 
   private ActivityMainBinding(@NonNull RelativeLayout rootView, @NonNull ImageView aspectbtn,
       @NonNull TextView aspecttext, @NonNull ImageView backarrow,
       @NonNull ConstraintLayout bottomview, @NonNull ConstraintLayout brightcontainer,
       @NonNull ImageView brighticon, @NonNull TextView brightprogresstext,
-      @NonNull SoundView brightview, @NonNull LinearLayout continuelay,
+      @NonNull SoundViewModel brightview, @NonNull LinearLayout continuelay,
       @NonNull TextView continuetextid, @NonNull TextView currentprogress,
       @NonNull SeekBar dragseek, @NonNull TextView endprogress, @NonNull RelativeLayout headsetview,
       @NonNull ImageView imageButton, @NonNull ImageView imageButton2,
@@ -154,7 +154,7 @@ public final class ActivityMainBinding implements ViewBinding {
       @NonNull ConstraintLayout toolbar, @NonNull RelativeLayout toucher,
       @NonNull ImageView unlockbtn, @NonNull TextView videotitle,
       @NonNull ConstraintLayout volumecontainer, @NonNull ImageView volumeicon,
-      @NonNull SoundView volumeview) {
+      @NonNull SoundViewModel volumeview) {
     this.rootView = rootView;
     this.aspectbtn = aspectbtn;
     this.aspecttext = aspecttext;
@@ -265,7 +265,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.brightview;
-      SoundView brightview = ViewBindings.findChildViewById(rootView, id);
+      SoundViewModel brightview = ViewBindings.findChildViewById(rootView, id);
       if (brightview == null) {
         break missingId;
       }
@@ -439,7 +439,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.volumeview;
-      SoundView volumeview = ViewBindings.findChildViewById(rootView, id);
+      SoundViewModel volumeview = ViewBindings.findChildViewById(rootView, id);
       if (volumeview == null) {
         break missingId;
       }

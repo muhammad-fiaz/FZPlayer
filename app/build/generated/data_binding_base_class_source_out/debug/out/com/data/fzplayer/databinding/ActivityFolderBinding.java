@@ -7,13 +7,13 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatImageView;
 import androidx.appcompat.widget.Toolbar;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.data.fzplayer.R;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -23,10 +23,10 @@ public final class ActivityFolderBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final BottomNavigationView bottomNavigation;
+  public final RecyclerView folderrecyclerview;
 
   @NonNull
-  public final RecyclerView folderrecyclerview;
+  public final AppCompatImageView menuIcon;
 
   @NonNull
   public final TextView mytitle;
@@ -35,11 +35,11 @@ public final class ActivityFolderBinding implements ViewBinding {
   public final Toolbar toolbar;
 
   private ActivityFolderBinding(@NonNull ConstraintLayout rootView,
-      @NonNull BottomNavigationView bottomNavigation, @NonNull RecyclerView folderrecyclerview,
+      @NonNull RecyclerView folderrecyclerview, @NonNull AppCompatImageView menuIcon,
       @NonNull TextView mytitle, @NonNull Toolbar toolbar) {
     this.rootView = rootView;
-    this.bottomNavigation = bottomNavigation;
     this.folderrecyclerview = folderrecyclerview;
+    this.menuIcon = menuIcon;
     this.mytitle = mytitle;
     this.toolbar = toolbar;
   }
@@ -71,15 +71,15 @@ public final class ActivityFolderBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.bottom_navigation;
-      BottomNavigationView bottomNavigation = ViewBindings.findChildViewById(rootView, id);
-      if (bottomNavigation == null) {
-        break missingId;
-      }
-
       id = R.id.folderrecyclerview;
       RecyclerView folderrecyclerview = ViewBindings.findChildViewById(rootView, id);
       if (folderrecyclerview == null) {
+        break missingId;
+      }
+
+      id = R.id.menu_icon;
+      AppCompatImageView menuIcon = ViewBindings.findChildViewById(rootView, id);
+      if (menuIcon == null) {
         break missingId;
       }
 
@@ -95,8 +95,8 @@ public final class ActivityFolderBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityFolderBinding((ConstraintLayout) rootView, bottomNavigation,
-          folderrecyclerview, mytitle, toolbar);
+      return new ActivityFolderBinding((ConstraintLayout) rootView, folderrecyclerview, menuIcon,
+          mytitle, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
