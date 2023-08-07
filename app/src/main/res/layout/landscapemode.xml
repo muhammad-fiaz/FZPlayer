@@ -79,7 +79,7 @@
             android:background="@drawable/roundview"
             android:visibility="invisible">
 
-            <com.data.fzplayer.main.utils.SoundView
+            <com.data.fzplayer.main.utils.SoundViewModel
                 android:id="@+id/volumeview"
                 android:layout_width="3dp"
                 android:layout_height="0dp"

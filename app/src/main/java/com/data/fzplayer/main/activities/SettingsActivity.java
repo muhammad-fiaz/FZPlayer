@@ -1,9 +1,10 @@
 package com.data.fzplayer.main.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.data.fzplayer.R;
 

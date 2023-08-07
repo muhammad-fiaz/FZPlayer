@@ -34,8 +34,8 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.transition.Transition;
 import com.data.fzplayer.R;
-import com.data.fzplayer.main.utils.SoundProgress;
-import com.data.fzplayer.main.utils.SoundView;
+import com.data.fzplayer.main.utils.SoundProgressModel;
+import com.data.fzplayer.main.utils.SoundViewModel;
 import com.data.fzplayer.main.utils.VideoModel;
 import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.MediaItem;
@@ -552,12 +552,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
-        SoundView soundView = findViewById(R.id.volumeview);
+        SoundViewModel soundView = findViewById(R.id.volumeview);
         TextView progresstext = findViewById(R.id.progresstext);
         ImageView volumeview = findViewById(R.id.volumeicon);
         View volumecontainerView = findViewById(R.id.volumecontainer);
         View muteview=findViewById(R.id.muteview);
-        SoundView brightView = findViewById(R.id.brightview);
+        SoundViewModel brightView = findViewById(R.id.brightview);
         TextView brightprogresstext = findViewById(R.id.brightprogresstext);
         View brightcontainer = findViewById(R.id.brightcontainer);
         muteview.setOnClickListener(new View.OnClickListener() {
@@ -577,14 +577,14 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        brightView.setOnsoundProgressChangeListner(new SoundProgress() {
+        brightView.setOnsoundProgressChangeListner(new SoundProgressModel() {
             @Override
             public void onchange(int progress) {
                 brightprogresstext.setText(progress + "");
 
             }
         });
-        soundView.setOnsoundProgressChangeListner(new SoundProgress() {
+        soundView.setOnsoundProgressChangeListner(new SoundProgressModel() {
             @Override
             public void onchange(int progress) {
                 Log.e("MainActivity", progress + "");

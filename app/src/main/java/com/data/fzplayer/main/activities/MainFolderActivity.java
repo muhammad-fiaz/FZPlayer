@@ -1,5 +1,9 @@
 package com.data.fzplayer.main.activities;
-
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.PopupMenu;
 import android.Manifest;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -7,10 +11,10 @@ import android.media.ExifInterface;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
@@ -18,19 +22,21 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
 import com.data.fzplayer.R;
 import com.data.fzplayer.main.utils.MediaModel;
 import com.data.fzplayer.main.utils.Utility;
 import com.data.fzplayer.main.utils.VideoModel;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.gson.Gson;
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 
-public class MainFolderActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
+public class MainFolderActivity extends AppCompatActivity
+{
     private static final int REQUEST_VIDEO_PERMISSION = 200;
     private MyListAdapter myListAdapter;
     private HashMap<String, List<VideoModel>> videodata;
@@ -51,29 +57,11 @@ public class MainFolderActivity extends AppCompatActivity implements BottomNavig
 
         myListAdapter = new MyListAdapter(null);
         folderrecycleview.setAdapter(myListAdapter);
-        BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
-        bottomNavigationView.setItemIconTintList(null); // Set to null to show white icons
-        bottomNavigationView.setOnNavigationItemSelectedListener(this);
-        bottomNavigationView.setSelectedItemId(R.id.action_local); // Set "Local" as default selected menu item
+
 
     }
-    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.action_local:
-                // No need to do anything as we are already in FolderActivity (Local)
-                break;
-            case R.id.action_musics:
-                // Show "Musics" page
-                break;
-            case R.id.action_settings:
-                // Show "Settings" page
-                // Handle the logic to show the "Settings" page here
-                Intent musicIntent = new Intent(MainFolderActivity.this, SettingsActivity.class);
-                startActivity(musicIntent);
-                break;
-        }
-        return true;
-    }
+
+
 
     @Override
     protected void onResume() {
@@ -93,7 +81,30 @@ public class MainFolderActivity extends AppCompatActivity implements BottomNavig
             getMediaData();
         }
     }
+    // This method is called when the menu icon is clicked
+    public void showPopupMenu(View view) {
+        PopupMenu popupMenu = new PopupMenu(this, view);
+        popupMenu.inflate(R.menu.menu_main);
 
+        // Set item click listener
+        popupMenu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
+            @Override
+            public boolean onMenuItemClick(MenuItem item) {
+                // Handle menu item clicks here
+                switch (item.getItemId()) {
+                    case R.id.action_settings:
+                        Intent intent = new Intent(MainFolderActivity.this, SettingsActivity.class); // Replace SettingsActivity with your actual settings activity class
+                        startActivity(intent);
+                        return true;
+                    // Add more cases for other menu items if needed
+                    default:
+                        return false;
+                }
+            }
+        });
+        popupMenu.show();
+
+    }
     private void getMediaData() {
         MediaModel mediaModel = Utility.getAllMedia(this);
         videodata = mediaModel.getListHashMap();
