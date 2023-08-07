@@ -1,4 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+
+<resources>
     <string name="app_name">FZ Player</string>
     <string name="title_activity_settings">SettingsActivity</string>
     <string name="version">Version 1.0.0</string>

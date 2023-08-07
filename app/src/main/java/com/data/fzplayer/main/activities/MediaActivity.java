@@ -118,12 +118,14 @@ public class MediaActivity extends AppCompatActivity {
         public MyMediaAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             LayoutInflater layoutInflater = LayoutInflater.from(parent.getContext());
             View listItem= layoutInflater.inflate(R.layout.utils_videoitem, parent, false);
-            ViewHolder viewHolder = new ViewHolder(listItem);
+
+            MyMediaAdapter.ViewHolder viewHolder = new MyMediaAdapter.ViewHolder(listItem);
             return viewHolder;
         }
 
         @Override
-        public void onBindViewHolder(ViewHolder holder, int position) {
+
+        public void onBindViewHolder(MyMediaAdapter.ViewHolder holder, int position) {
 
             Glide.with(MediaActivity.this)
                     .load(videoModels.get(position).getUrl())

@@ -1,0 +1,537 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.data.fzplayer"
+4    android:versionCode="5"
+5    android:versionName="1.0.1-release" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->D:\FZ\source\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\FZ\source\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+11-->D:\FZ\source\src\main\AndroidManifest.xml:5:5-78
+11-->D:\FZ\source\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\FZ\source\src\main\AndroidManifest.xml:8:5-67
+12-->D:\FZ\source\src\main\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+13-->D:\FZ\source\src\main\AndroidManifest.xml:9:5-11:47
+13-->D:\FZ\source\src\main\AndroidManifest.xml:10:9-57
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\FZ\source\src\main\AndroidManifest.xml:12:5-80
+14-->D:\FZ\source\src\main\AndroidManifest.xml:12:22-77
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->D:\FZ\source\src\main\AndroidManifest.xml:13:5-76
+15-->D:\FZ\source\src\main\AndroidManifest.xml:13:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->D:\FZ\source\src\main\AndroidManifest.xml:14:5-79
+16-->D:\FZ\source\src\main\AndroidManifest.xml:14:22-76
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->D:\FZ\source\src\main\AndroidManifest.xml:12:5-80
+17-->D:\FZ\source\src\main\AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->D:\FZ\source\src\main\AndroidManifest.xml:16:5-68
+18-->D:\FZ\source\src\main\AndroidManifest.xml:16:22-65
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\FZ\source\src\main\AndroidManifest.xml:17:5-81
+19-->D:\FZ\source\src\main\AndroidManifest.xml:17:22-78
+20
+21    <!-- Required by older versions of Google Play services to create IID tokens -->
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:5-82
+22-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:22-79
+23    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+23-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:5-110
+23-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:22-107
+24
+25    <application
+25-->D:\FZ\source\src\main\AndroidManifest.xml:19:5-127:19
+26        android:allowBackup="true"
+26-->D:\FZ\source\src\main\AndroidManifest.xml:20:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.7.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0a6bc03f75a503552b4ae90f067e7d52\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+28        android:extractNativeLibs="false"
+29        android:icon="@drawable/fzlogoico"
+29-->D:\FZ\source\src\main\AndroidManifest.xml:21:9-43
+30        android:label="FZ Player"
+30-->D:\FZ\source\src\main\AndroidManifest.xml:22:9-34
+31        android:requestLegacyExternalStorage="true"
+31-->D:\FZ\source\src\main\AndroidManifest.xml:23:9-52
+32        android:roundIcon="@drawable/fzlogoico"
+32-->D:\FZ\source\src\main\AndroidManifest.xml:24:9-48
+33        android:supportsRtl="true"
+33-->D:\FZ\source\src\main\AndroidManifest.xml:25:9-35
+34        android:theme="@style/maintheme"
+34-->D:\FZ\source\src\main\AndroidManifest.xml:26:9-41
+35        android:usesCleartextTraffic="true" >
+35-->D:\FZ\source\src\main\AndroidManifest.xml:27:9-44
+36        <activity
+36-->D:\FZ\source\src\main\AndroidManifest.xml:30:9-32:40
+37            android:name="com.data.fzplayer.appinfo.FeedBackIssues"
+37-->D:\FZ\source\src\main\AndroidManifest.xml:31:13-51
+38            android:exported="false" />
+38-->D:\FZ\source\src\main\AndroidManifest.xml:32:13-37
+39        <activity
+39-->D:\FZ\source\src\main\AndroidManifest.xml:33:9-35:40
+40            android:name="com.data.fzplayer.appinfo.HelpActivity"
+40-->D:\FZ\source\src\main\AndroidManifest.xml:34:13-49
+41            android:exported="false" />
+41-->D:\FZ\source\src\main\AndroidManifest.xml:35:13-37
+42        <activity
+42-->D:\FZ\source\src\main\AndroidManifest.xml:36:9-38:40
+43            android:name="com.data.fzplayer.appinfo.VersionLog"
+43-->D:\FZ\source\src\main\AndroidManifest.xml:37:13-47
+44            android:exported="false" />
+44-->D:\FZ\source\src\main\AndroidManifest.xml:38:13-37
+45        <activity
+45-->D:\FZ\source\src\main\AndroidManifest.xml:39:9-41:40
+46            android:name="com.data.fzplayer.appinfo.WhatsNew"
+46-->D:\FZ\source\src\main\AndroidManifest.xml:40:13-45
+47            android:exported="false" />
+47-->D:\FZ\source\src\main\AndroidManifest.xml:41:13-37
+48        <activity
+48-->D:\FZ\source\src\main\AndroidManifest.xml:42:9-44:40
+49            android:name="com.data.fzplayer.appinfo.AppInfo"
+49-->D:\FZ\source\src\main\AndroidManifest.xml:43:13-44
+50            android:exported="false" />
+50-->D:\FZ\source\src\main\AndroidManifest.xml:44:13-37
+51        <activity
+51-->D:\FZ\source\src\main\AndroidManifest.xml:45:9-47:40
+52            android:name="com.data.fzplayer.appinfo.AppLicense"
+52-->D:\FZ\source\src\main\AndroidManifest.xml:46:13-47
+53            android:exported="false" />
+53-->D:\FZ\source\src\main\AndroidManifest.xml:47:13-37
+54        <activity
+54-->D:\FZ\source\src\main\AndroidManifest.xml:48:9-50:40
+55            android:name="com.data.fzplayer.fzstream.PlayStreamingVideo"
+55-->D:\FZ\source\src\main\AndroidManifest.xml:49:13-56
+56            android:exported="false" />
+56-->D:\FZ\source\src\main\AndroidManifest.xml:50:13-37
+57        <activity
+57-->D:\FZ\source\src\main\AndroidManifest.xml:51:9-53:40
+58            android:name="com.data.fzplayer.fzstream.GetUrlFromUser"
+58-->D:\FZ\source\src\main\AndroidManifest.xml:52:13-52
+59            android:exported="false" />
+59-->D:\FZ\source\src\main\AndroidManifest.xml:53:13-37
+60        <activity
+60-->D:\FZ\source\src\main\AndroidManifest.xml:54:9-56:40
+61            android:name="com.data.fzplayer.fzstream.StreamFromUrl"
+61-->D:\FZ\source\src\main\AndroidManifest.xml:55:13-51
+62            android:exported="false" />
+62-->D:\FZ\source\src\main\AndroidManifest.xml:56:13-37
+63        <activity android:name="com.data.fzplayer.fzmusicplayer.MusicPlayerActivity" />
+63-->D:\FZ\source\src\main\AndroidManifest.xml:57:9-71
+63-->D:\FZ\source\src\main\AndroidManifest.xml:57:19-68
+64        <activity
+64-->D:\FZ\source\src\main\AndroidManifest.xml:58:9-61:50
+65            android:name="com.data.fzplayer.fzmusicplayer.MainActivity"
+65-->D:\FZ\source\src\main\AndroidManifest.xml:59:13-55
+66            android:exported="true"
+66-->D:\FZ\source\src\main\AndroidManifest.xml:60:13-36
+67            android:theme="@style/foldertheme" />
+67-->D:\FZ\source\src\main\AndroidManifest.xml:61:13-47
+68        <activity
+68-->D:\FZ\source\src\main\AndroidManifest.xml:62:9-64:40
+69            android:name="com.data.fzplayer.fzplayer.DeleteItemsActivity"
+69-->D:\FZ\source\src\main\AndroidManifest.xml:63:13-57
+70            android:exported="false" />
+70-->D:\FZ\source\src\main\AndroidManifest.xml:64:13-37
+71        <activity
+71-->D:\FZ\source\src\main\AndroidManifest.xml:65:9-69:50
+72            android:name="com.data.fzplayer.fzplayer.SettingsActivity"
+72-->D:\FZ\source\src\main\AndroidManifest.xml:66:13-54
+73            android:configChanges="orientation|keyboardHidden|screenSize"
+73-->D:\FZ\source\src\main\AndroidManifest.xml:67:13-74
+74            android:exported="true"
+74-->D:\FZ\source\src\main\AndroidManifest.xml:68:13-36
+75            android:theme="@style/foldertheme" />
+75-->D:\FZ\source\src\main\AndroidManifest.xml:69:13-47
+76        <activity
+76-->D:\FZ\source\src\main\AndroidManifest.xml:70:9-73:50
+77            android:name="com.data.fzplayer.fzplayer.SoundView"
+77-->D:\FZ\source\src\main\AndroidManifest.xml:71:13-47
+78            android:exported="true"
+78-->D:\FZ\source\src\main\AndroidManifest.xml:72:13-36
+79            android:theme="@style/foldertheme" />
+79-->D:\FZ\source\src\main\AndroidManifest.xml:73:13-47
+80
+81        <meta-data
+81-->D:\FZ\source\src\main\AndroidManifest.xml:75:9-77:36
+82            android:name="firebase_crashlytics_collection_enabled"
+82-->D:\FZ\source\src\main\AndroidManifest.xml:76:13-67
+83            android:value="true" />
+83-->D:\FZ\source\src\main\AndroidManifest.xml:77:13-33
+84        <meta-data
+84-->D:\FZ\source\src\main\AndroidManifest.xml:78:9-80:36
+85            android:name="firebase_performance_logcat_enabled"
+85-->D:\FZ\source\src\main\AndroidManifest.xml:79:13-63
+86            android:value="true" />
+86-->D:\FZ\source\src\main\AndroidManifest.xml:80:13-33
+87
+88        <activity
+88-->D:\FZ\source\src\main\AndroidManifest.xml:82:9-96:20
+89            android:name="com.data.fzplayer.fzplayer.FolderActivity"
+89-->D:\FZ\source\src\main\AndroidManifest.xml:83:13-52
+90            android:configChanges="orientation|keyboardHidden|screenSize"
+90-->D:\FZ\source\src\main\AndroidManifest.xml:84:13-74
+91            android:exported="true"
+91-->D:\FZ\source\src\main\AndroidManifest.xml:85:13-36
+92            android:theme="@style/foldertheme" >
+92-->D:\FZ\source\src\main\AndroidManifest.xml:86:13-47
+93            <intent-filter>
+93-->D:\FZ\source\src\main\AndroidManifest.xml:87:13-95:29
+94                <action android:name="android.intent.action.VIEW" />
+94-->D:\FZ\source\src\main\AndroidManifest.xml:88:17-69
+94-->D:\FZ\source\src\main\AndroidManifest.xml:88:25-66
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->D:\FZ\source\src\main\AndroidManifest.xml:90:17-76
+96-->D:\FZ\source\src\main\AndroidManifest.xml:90:27-73
+97
+98                <data android:mimeType="video/*" />
+98-->D:\FZ\source\src\main\AndroidManifest.xml:92:17-52
+98-->D:\FZ\source\src\main\AndroidManifest.xml:92:23-49
+99                <data android:scheme="content" />
+99-->D:\FZ\source\src\main\AndroidManifest.xml:92:17-52
+99-->D:\FZ\source\src\main\AndroidManifest.xml:93:23-47
+100                <data android:scheme="file" />
+100-->D:\FZ\source\src\main\AndroidManifest.xml:92:17-52
+100-->D:\FZ\source\src\main\AndroidManifest.xml:93:23-47
+101            </intent-filter>
+102        </activity>
+103        <activity
+103-->D:\FZ\source\src\main\AndroidManifest.xml:97:9-100:39
+104            android:name="com.data.fzplayer.fzplayer.MainActivity"
+104-->D:\FZ\source\src\main\AndroidManifest.xml:98:13-50
+105            android:configChanges="orientation|keyboardHidden|screenSize"
+105-->D:\FZ\source\src\main\AndroidManifest.xml:99:13-74
+106            android:exported="true" />
+106-->D:\FZ\source\src\main\AndroidManifest.xml:100:13-36
+107        <activity
+107-->D:\FZ\source\src\main\AndroidManifest.xml:101:9-104:50
+108            android:name="com.data.fzplayer.fzplayer.PrivacyActivity"
+108-->D:\FZ\source\src\main\AndroidManifest.xml:102:13-53
+109            android:exported="true"
+109-->D:\FZ\source\src\main\AndroidManifest.xml:103:13-36
+110            android:theme="@style/foldertheme" />
+110-->D:\FZ\source\src\main\AndroidManifest.xml:104:13-47
+111        <activity
+111-->D:\FZ\source\src\main\AndroidManifest.xml:105:9-108:50
+112            android:name="com.data.fzplayer.fzplayer.NavigationBar"
+112-->D:\FZ\source\src\main\AndroidManifest.xml:106:13-51
+113            android:exported="true"
+113-->D:\FZ\source\src\main\AndroidManifest.xml:107:13-36
+114            android:theme="@style/foldertheme" />
+114-->D:\FZ\source\src\main\AndroidManifest.xml:108:13-47
+115        <activity
+115-->D:\FZ\source\src\main\AndroidManifest.xml:109:9-113:50
+116            android:name="com.data.fzplayer.fzplayer.MediaActivity"
+116-->D:\FZ\source\src\main\AndroidManifest.xml:110:13-51
+117            android:configChanges="orientation|keyboardHidden|screenSize"
+117-->D:\FZ\source\src\main\AndroidManifest.xml:111:13-74
+118            android:exported="true"
+118-->D:\FZ\source\src\main\AndroidManifest.xml:112:13-36
+119            android:theme="@style/foldertheme" />
+119-->D:\FZ\source\src\main\AndroidManifest.xml:113:13-47
+120        <activity
+120-->D:\FZ\source\src\main\AndroidManifest.xml:114:9-122:20
+121            android:name="com.data.fzplayer.fzplayer.SplashScreenActivity"
+121-->D:\FZ\source\src\main\AndroidManifest.xml:115:13-58
+122            android:exported="true" >
+122-->D:\FZ\source\src\main\AndroidManifest.xml:116:13-36
+123            <intent-filter>
+123-->D:\FZ\source\src\main\AndroidManifest.xml:117:13-121:29
+124                <action android:name="android.intent.action.MAIN" />
+124-->D:\FZ\source\src\main\AndroidManifest.xml:118:17-69
+124-->D:\FZ\source\src\main\AndroidManifest.xml:118:25-66
+125
+126                <category android:name="android.intent.category.LAUNCHER" />
+126-->D:\FZ\source\src\main\AndroidManifest.xml:120:17-77
+126-->D:\FZ\source\src\main\AndroidManifest.xml:120:27-74
+127            </intent-filter>
+128        </activity>
+129
+130        <meta-data
+130-->D:\FZ\source\src\main\AndroidManifest.xml:124:9-126:57
+131            android:name="preloaded_fonts"
+131-->D:\FZ\source\src\main\AndroidManifest.xml:125:13-43
+132            android:resource="@array/preloaded_fonts" />
+132-->D:\FZ\source\src\main\AndroidManifest.xml:126:13-54
+133
+134        <service
+134-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:12:9-18:19
+135            android:name="com.google.firebase.components.ComponentDiscoveryService"
+135-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:13:13-84
+136            android:directBootAware="true"
+136-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+137            android:exported="false" >
+137-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:14:13-37
+138            <meta-data
+138-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:15:13-17:85
+139                android:name="com.google.firebase.components:com.google.firebase.perf.ktx.FirebasePerfKtxRegistrar"
+139-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:16:17-116
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-perf-ktx:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\d958d21840ccbef477a9da9b2143b240\transformed\jetified-firebase-perf-ktx-20.1.0\AndroidManifest.xml:17:17-82
+141            <meta-data
+141-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:23:13-25:85
+142                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+142-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:24:17-109
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:25:17-82
+144            <meta-data
+144-->[com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:29:13-31:85
+145                android:name="com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingKtxRegistrar"
+145-->[com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:30:17-126
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-messaging-ktx:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\572f32dbad219ac7d2da3a28ff60915d\transformed\jetified-firebase-messaging-ktx-23.0.3\AndroidManifest.xml:31:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:55:13-57:85
+148                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+148-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:56:17-119
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:57:17-82
+150            <meta-data
+150-->[com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:20:13-22:85
+151                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+151-->[com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:21:17-111
+152                android:value="com.google.firebase.components.ComponentRegistrar" />
+152-->[com.google.firebase:firebase-firestore:24.2.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\2350a8a10eea72bd9d087345f961f438\transformed\jetified-firebase-firestore-24.2.2\AndroidManifest.xml:22:17-82
+153            <meta-data
+153-->[com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:27:13-29:85
+154                android:name="com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar"
+154-->[com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:28:17-130
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-crashlytics-ktx:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\aefca90962131b40cd2be5565c9ea080\transformed\jetified-firebase-crashlytics-ktx-18.2.12\AndroidManifest.xml:29:17-82
+156            <meta-data
+156-->[com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:18:13-20:85
+157                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+157-->[com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:19:17-115
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-crashlytics:18.2.12] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\10ccd66d9e13ab8c90d59223d7a8cf2c\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:20:17-82
+159            <meta-data
+159-->[com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:11:13-13:85
+160                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+160-->[com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:12:17-126
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-analytics-ktx:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\85e08f01e682ba1fd3bcb0a1d8cafa84\transformed\jetified-firebase-analytics-ktx-21.1.0\AndroidManifest.xml:13:17-82
+162            <meta-data
+162-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
+163                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+163-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
+164                android:value="com.google.firebase.components.ComponentRegistrar" />
+164-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\78eab56d201cb971babafc92728ba59c\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
+165            <meta-data
+165-->[com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:32:13-34:85
+166                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+166-->[com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:33:17-117
+167                android:value="com.google.firebase.components.ComponentRegistrar" />
+167-->[com.google.firebase:firebase-config:21.0.2] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\3f6723d73bdd8d5baf8e7c73ecc910c6\transformed\jetified-firebase-config-21.0.2\AndroidManifest.xml:34:17-82
+168            <meta-data
+168-->[com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+169                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+169-->[com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+170                android:value="com.google.firebase.components.ComponentRegistrar" />
+170-->[com.google.firebase:firebase-installations:17.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1d7de441b6865e2e568c84196cf875f1\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+171            <meta-data
+171-->[com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:15:13-17:85
+172                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+172-->[com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:16:17-113
+173                android:value="com.google.firebase.components.ComponentRegistrar" />
+173-->[com.google.firebase:firebase-common-ktx:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\1f4b26c134e7502f6c26654b3a415d17\transformed\jetified-firebase-common-ktx-20.1.1\AndroidManifest.xml:17:17-82
+174            <meta-data
+174-->[com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:28:13-30:85
+175                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+175-->[com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:29:17-115
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[com.google.firebase:firebase-datatransport:18.1.4] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\0893290cb0e4ab3e11349155170c575c\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:30:17-82
+177            <meta-data
+177-->[com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:13:13-15:85
+178                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+178-->[com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:14:17-109
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[com.google.firebase:firebase-abt:21.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\948f51c8998ecab0f38e970ad46bea68\transformed\jetified-firebase-abt-21.0.1\AndroidManifest.xml:15:17-82
+180        </service>
+181
+182        <provider
+182-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:14:9-18:39
+183            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+183-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:15:13-82
+184            android:authorities="com.data.fzplayer.firebaseperfprovider"
+184-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:16:13-72
+185            android:exported="false"
+185-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:17:13-37
+186            android:initOrder="101" />
+186-->[com.google.firebase:firebase-perf:20.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5217ece7de7fd39b7e950f169b3d264a\transformed\jetified-firebase-perf-20.1.0\AndroidManifest.xml:18:13-36
+187
+188        <receiver
+188-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:31:9-38:20
+189            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+189-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:32:13-78
+190            android:exported="true"
+190-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:33:13-36
+191            android:permission="com.google.android.c2dm.permission.SEND" >
+191-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:34:13-73
+192            <intent-filter>
+192-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:35:13-37:29
+193                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+193-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:36:17-81
+193-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:36:25-78
+194            </intent-filter>
+195        </receiver>
+196        <!--
+197             FirebaseMessagingService performs security checks at runtime,
+198             but set to not exported to explicitly avoid allowing another app to call it.
+199        -->
+200        <service
+200-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:44:9-51:19
+201            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+201-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:45:13-82
+202            android:directBootAware="true"
+202-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:46:13-43
+203            android:exported="false" >
+203-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:47:13-37
+204            <intent-filter android:priority="-500" >
+204-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:13-50:29
+204-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:28-51
+205                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+205-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:49:17-78
+205-->[com.google.firebase:firebase-messaging:23.0.3] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\6b4c9b7cf9c3e84d9a4bd28dc034c82c\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:49:25-75
+206            </intent-filter>
+207        </service> <!-- The activities will be merged into the manifest of the hosting app. -->
+208        <activity
+208-->[com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:14:9-18:65
+209            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+209-->[com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:15:13-93
+210            android:exported="false"
+210-->[com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:16:13-37
+211            android:stateNotNeeded="true"
+211-->[com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:17:13-42
+212            android:theme="@style/Theme.PlayCore.Transparent" />
+212-->[com.google.android.play:core-common:2.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\365169857994752a08c8ffc12e40402c\transformed\jetified-core-common-2.0.0\AndroidManifest.xml:18:13-62
+213        <activity
+213-->[com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+214            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+214-->[com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+215            android:exported="false"
+215-->[com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+216            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+216-->[com.google.android.gms:play-services-base:18.0.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\851d87e2f6cefd3a9d6085dc099adba3\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+217
+218        <provider
+218-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+219            android:name="com.google.firebase.provider.FirebaseInitProvider"
+219-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+220            android:authorities="com.data.fzplayer.firebaseinitprovider"
+220-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+221            android:directBootAware="true"
+221-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+222            android:exported="false"
+222-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+223            android:initOrder="100" />
+223-->[com.google.firebase:firebase-common:20.1.1] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c6b94366aa59a739c035c937a9cf615c\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+224
+225        <receiver
+225-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
+226            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+226-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
+227            android:enabled="true"
+227-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
+228            android:exported="false" >
+228-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
+229        </receiver>
+230
+231        <service
+231-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
+232            android:name="com.google.android.gms.measurement.AppMeasurementService"
+232-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
+233            android:enabled="true"
+233-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
+234            android:exported="false" />
+234-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
+235        <service
+235-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
+236            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+236-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
+237            android:enabled="true"
+237-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
+238            android:exported="false"
+238-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
+239            android:permission="android.permission.BIND_JOB_SERVICE" />
+239-->[com.google.android.gms:play-services-measurement:21.1.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\5ded9650ce3290c19f3f92d8b083b160\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
+240
+241        <meta-data
+241-->[com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+242            android:name="com.google.android.gms.version"
+242-->[com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+243            android:value="@integer/google_play_services_version" />
+243-->[com.google.android.gms:play-services-basement:18.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\cf2664deb7483868ae4f5327f2d32906\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+244
+245        <uses-library
+245-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+246            android:name="androidx.window.extensions"
+246-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+247            android:required="false" />
+247-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+248        <uses-library
+248-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+249            android:name="androidx.window.sidecar"
+249-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+250            android:required="false" />
+250-->[androidx.window:window:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\595ab0eca6d904bb5b53dc390ff42c9e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+251
+252        <provider
+252-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+253            android:name="androidx.startup.InitializationProvider"
+253-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+254            android:authorities="com.data.fzplayer.androidx-startup"
+254-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+255            android:exported="false" >
+255-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+256            <meta-data
+256-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+257                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+257-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+258                android:value="androidx.startup" />
+258-->[androidx.emoji2:emoji2:1.0.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\f48ac5d0c40f7109d3a729b29e27252e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+259            <meta-data
+259-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+260                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+260-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+261                android:value="androidx.startup" />
+261-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\c9febf685d369cfef1bcc78f68f7cc8b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+262        </provider>
+263
+264        <service
+264-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:29:9-35:19
+265            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+265-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:30:13-103
+266            android:exported="false" >
+266-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:31:13-37
+267            <meta-data
+267-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:32:13-34:39
+268                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+268-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:33:17-94
+269                android:value="cct" />
+269-->[com.google.android.datatransport:transport-backend-cct:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\7a3f82ae20671b99e3b1c2402b31de40\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:34:17-36
+270        </service>
+271        <service
+271-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:26:9-30:19
+272            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+272-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:27:13-117
+273            android:exported="false"
+273-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:28:13-37
+274            android:permission="android.permission.BIND_JOB_SERVICE" >
+274-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:29:13-69
+275        </service>
+276
+277        <receiver
+277-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:32:9-34:40
+278            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+278-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:33:13-132
+279            android:exported="false" />
+279-->[com.google.android.datatransport:transport-runtime:3.1.7] D:\AlphaProjects\app\src\main\java\com\redlightprojects\alphachat\caches\transforms-3\9a03e66690bd549e64654b1bb52739c0\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:34:13-37
+280    </application>
+281
+282</manifest>

@@ -168,7 +168,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="7dp"
-            android:background="@drawable/subtitles">
+
+            android:background="@drawable/ic_cap"
+            android:outlineSpotShadowColor="@color/white">
 
 
         </ImageView>
@@ -222,7 +224,8 @@
             android:layout_alignParentLeft="true"
             >
 
-            <com.data.fzplayer.main.utils.SoundView
+
+            <com.data.fzplayer.main.utils.SoundViewModel
                 android:id="@+id/volumeview"
                 android:layout_width="3dp"
                 android:layout_height="0dp"
@@ -278,7 +281,8 @@
             android:layout_alignParentRight="true"
             >
 
-            <com.data.fzplayer.main.utils.SoundView
+
+            <com.data.fzplayer.main.utils.SoundViewModel
                 android:id="@+id/brightview"
                 android:layout_width="3dp"
                 android:layout_height="0dp"

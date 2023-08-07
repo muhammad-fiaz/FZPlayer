@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+
+    xmlns:tools="http://schemas.android.com/tools" >
 
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -8,9 +9,11 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/fzlogoico"
@@ -21,7 +24,11 @@
         android:theme="@style/maintheme"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning"
-        tools:replace="android:icon, android:allowBackup">
+
+        tools:replace="android:icon, android:allowBackup" >
+        <activity
+            android:name=".main.activities.AppinfoActivity"
+            android:exported="false" />
         <activity
             android:name=".main.activities.SettingsActivity"
             android:exported="false" />
@@ -29,7 +36,8 @@
             android:name=".main.activities.DeleteItemsActivity"
             android:exported="false" />
         <activity
-            android:name=".main.utils.SoundView"
+
+            android:name=".main.utils.SoundViewModel"
             android:exported="true"
             android:theme="@style/foldertheme" />
 
@@ -44,7 +52,8 @@
             android:name=".main.activities.MainFolderActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
-            android:theme="@style/foldertheme">
+
+            android:theme="@style/foldertheme" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
@@ -60,7 +69,8 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true" />
         <activity
-            android:name=".main.activities.PrivacyActivity"
+
+            android:name=".main.activities.LicenseActivity"
             android:exported="true"
             android:theme="@style/foldertheme" />
         <activity
@@ -70,7 +80,8 @@
             android:theme="@style/foldertheme" />
         <activity
             android:name=".main.intro.SplashScreenActivity"
-            android:exported="true">
+
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

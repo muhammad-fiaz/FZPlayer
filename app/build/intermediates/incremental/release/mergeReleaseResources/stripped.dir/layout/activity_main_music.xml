@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fzplayer.MainActivity"
+    android:background="@drawable/backgroundtheme"
+
+
+    >
+
+    <ImageView
+        android:id="@+id/music_arrowbackbtn"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignBottom="@+id/songs_text"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/arrowbackbtn"
+        android:contentDescription="BackButton" />
+
+    <TextView
+        android:id="@+id/songs_text"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="SONGS"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:textStyle="bold">
+    </TextView>
+
+
+
+    <TextView
+        android:id="@+id/no_songs_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="NO SONGS FOUND"
+        android:textColor="@color/white"
+        android:visibility="gone" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/songs_text" />
+
+
+
+
+
+</RelativeLayout>
+

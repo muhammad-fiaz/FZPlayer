@@ -1,0 +1,1 @@
+{"className":"com.data.fzplayer.fzplayer.MainActivity$MyOnScaleGestureListener","classAnnotations":[],"interfaces":["android.view.ScaleGestureDetector$OnScaleGestureListener"],"superClasses":["android.view.ScaleGestureDetector$SimpleOnScaleGestureListener","java.lang.Object"]}

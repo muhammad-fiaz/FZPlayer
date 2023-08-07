@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_app_license.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_app_license.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_splash_screen.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_version_log.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_version_log.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_get_url_from_user.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_get_url_from_user.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_help.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_settings.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/recycler_item.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/recycler_item.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_main.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/videoitem.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/videoitem.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_folder.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_folder.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_feed_back_issues.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_feed_back_issues.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_delete_items.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_delete_items.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_media.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_media.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_privacy.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_privacy.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/folderitem.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/folderitem.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_play_streaming_video.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_play_streaming_video.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_music_player.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_music_player.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/myland.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/myland.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_app_info.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_app_info.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_whats_new.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_whats_new.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_stream_from_url.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_stream_from_url.xml"
+    },
+    {
+        "merged": "com.data.fzplayer.source-mergeReleaseResources-49:/layout/activity_main_music.xml",
+        "source": "com.data.fzplayer.source-main-51:/layout/activity_main_music.xml"
+    }
+]
