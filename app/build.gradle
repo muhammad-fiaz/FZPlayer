@@ -155,7 +155,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging-ktx:23.0.3'
     implementation 'com.google.firebase:firebase-analytics-ktx:21.1.0'
     implementation 'com.google.firebase:firebase-perf-ktx:20.1.0'
-    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.2.12'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.4.0'
     implementation 'com.google.firebase:firebase-firestore:24.2.2'
     testImplementation 'junit:junit:+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
