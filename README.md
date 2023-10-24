@@ -2,7 +2,7 @@
 
 The Fz Player is a video player designed for Android devices, providing a user-friendly and feature-rich video playback experience. 
 
-**This video player is currently in the development.**
+**This video player is currently in the active development.**
 
 ## About FZ Player
 
