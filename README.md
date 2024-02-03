@@ -1,8 +1,21 @@
+<div align="center">
+
 # Fz Player
+[![CodeQL](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql)
+
+![preview](https://github.com/muhammad-fiaz/FZPlayer/assets/75434191/1523d37e-5c8c-4dda-9eaf-702c05275019)
+
+[![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
+[![Pull Requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/pulls)
+[![Issues](https://img.shields.io/github/issues/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/issues)
+[![License](https://img.shields.io/github/license/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/commits/main)
+
+</div>
 
 The Fz Player is a video player designed for Android devices, providing a user-friendly and feature-rich video playback experience. 
 
-**This video player is currently in the active development.**
+**If you like this project, don't forget to star the repository, and if you want to contribute, make sure to fork.**
 
 ## About FZ Player
 
@@ -36,6 +49,25 @@ Enjoy your seamless video playback experience with Fz Player!
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. and make sure to follow the [project guidelines](CODE_OF_CONDUCT.md)
 
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standards of behavior we expect from contributors and users of this project.
+
 ## License
 
 This project is licensed under the Apache License, Version 2.0. You can find more details in the [LICENSE](LICENSE) file.
+
+## Support
+
+If you like this template, please consider starring the repository. Your support is appreciated! 💙
+
+Also, if you'd like to offer more support, you can:
+- [BuyMeACoffee](https://buymeacoffee.com/muhammadfiaz)
+- [Patreon](https://patreon.com/muhammadfiaz)
+- [Ko-Fi](https://ko-fi.com/muhammadfiaz)
+- [Sponsor on GitHub](https://github.com/sponsors/muhammad-fiaz)
+- [Open Collective Backer](https://opencollective.com/muhammadfiaz)
+
+
+
+## Happy Coding ❤️
