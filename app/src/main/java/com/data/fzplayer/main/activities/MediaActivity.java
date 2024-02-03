@@ -31,12 +31,22 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 //https://github.com/muhammad-fiaz/FzPlayer
+
+/**
+ * MediaActivity is an activity class that represents the media screen of the application.
+ */
 public class MediaActivity extends AppCompatActivity {
 
     private ArrayList<VideoModel> videoModels=new ArrayList<>();
     private String foldername;
     List<String> latestid=new ArrayList<>();
     private RecyclerView recyclerView;
+
+    /**
+     * Called when the activity is starting.
+     *
+     * @param savedInstanceState If the activity is being re-initialized after previously being shut down then this Bundle contains the data it most recently supplied in onSaveInstanceState(Bundle).
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -72,7 +82,9 @@ public class MediaActivity extends AppCompatActivity {
         });
         recyclerView.setAdapter(new MyMediaAdapter());
     }
-
+    /**
+     * Called after onCreate(Bundle) — or after onRestart() when the activity had been stopped, but is now again being displayed to the user.
+     */
     @Override
     protected void onResume() {
         super.onResume();
@@ -96,7 +108,12 @@ public class MediaActivity extends AppCompatActivity {
         recyclerView.getAdapter().notifyDataSetChanged();
 
     }
-
+    /**
+     * This hook is called whenever an item in your options menu is selected.
+     *
+     * @param item The menu item that was selected.
+     * @return boolean Return false to allow normal menu processing to proceed, true to consume it here.
+     */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
@@ -108,10 +125,12 @@ public class MediaActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    /**
+     * MyMediaAdapter is an inner class that represents the adapter for the RecyclerView.
+     */
     class MyMediaAdapter extends RecyclerView.Adapter<MyMediaAdapter.ViewHolder>{
 
         // RecyclerView recyclerView;
-
 
         @NonNull
         @Override
@@ -146,9 +165,13 @@ public class MediaActivity extends AppCompatActivity {
 
         @Override
         public int getItemCount() {
+
             return videoModels.size();
         }
 
+        /**
+         * ViewHolder is an inner class that represents the view holder for the RecyclerView.
+         */
         class ViewHolder extends RecyclerView.ViewHolder {
             public ImageView thumbnail;
             public TextView titletext;

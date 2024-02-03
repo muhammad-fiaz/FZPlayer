@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.android.datatransport:transport-api:3.0.0@aar">
+  <library name="Gradle: com.google.android.datatransport:transport-api:3.0.0@aar" external-system-id="GRADLE">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cbdc1c8de9bf5fe38b24a8baee06c50f/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cbdc1c8de9bf5fe38b24a8baee06c50f/transformed/jetified-transport-api-3.0.0/jars/classes.jar!/" />

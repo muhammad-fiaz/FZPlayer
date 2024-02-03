@@ -57,6 +57,11 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 //https://github.com/muhammad-fiaz/FzPlayer
+
+/**
+ * MainActivity is an activity class that represents the main screen of the application.
+ * It handles video playback and user interactions related to video playback.
+ */
 public class MainActivity extends AppCompatActivity {
     private float downy;
     private float endheight;
@@ -103,6 +108,11 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    /**
+     * Called when the activity is starting.
+     *
+     * @param savedInstanceState If the activity is being re-initialized after previously being shut down then this Bundle contains the data it most recently supplied in onSaveInstanceState(Bundle).
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -191,6 +201,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+    /**
+     * Called when the activity has detected the user's press of the back key.
+     */
     @Override
     public void onBackPressed() {
         int orientation = MainActivity.this.getResources().getConfiguration().orientation;
@@ -206,6 +219,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    /**
+     * Initializes the views.
+     */
     public void initview(){
 
         setContentView(R.layout.activity_main);

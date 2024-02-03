@@ -14,7 +14,9 @@ import com.data.fzplayer.R;
 import com.data.fzplayer.main.activities.MainFolderActivity;
 
 import maes.tech.intentanim.CustomIntent;
-
+/**
+ * SplashScreenActivity is an activity class that represents the splash screen of the application.
+ */
 public class SplashScreenActivity extends AppCompatActivity {
 
     //View Variables
@@ -24,6 +26,11 @@ public class SplashScreenActivity extends AppCompatActivity {
     //Other Variables
     private Animation topAnimation, bottomAnimation;
 
+    /**
+     * Called when the activity is starting.
+     *
+     * @param savedInstanceState If the activity is being re-initialized after previously being shut down then this Bundle contains the data it most recently supplied in onSaveInstanceState(Bundle).
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,7 +38,9 @@ public class SplashScreenActivity extends AppCompatActivity {
         initViews();
         initAnimation();
     }
-
+    /**
+     * Initializes the views.
+     */
     private void initViews() {
         //Initialize Views
         appLogo = findViewById(R.id.app_logo);
@@ -40,12 +49,17 @@ public class SplashScreenActivity extends AppCompatActivity {
         poweredBy2 = findViewById(R.id.app_powered_by2);
     }
 
+    /**
+     * Initializes the animations.
+     */
     private void initAnimation() {
         //Initialize Animations
         topAnimation = AnimationUtils.loadAnimation(SplashScreenActivity.this, R.anim.splash_top_animation);
         bottomAnimation = AnimationUtils.loadAnimation(SplashScreenActivity.this, R.anim.splash_bottom_animation);
     }
-
+    /**
+     * Called after onCreate(Bundle) — or after onRestart() when the activity had been stopped, but is now again being displayed to the user.
+     */
     @Override
     protected void onStart() {
         super.onStart();
@@ -67,7 +81,9 @@ public class SplashScreenActivity extends AppCompatActivity {
         }, SPLASH_TIMER);
 
     }
-
+    /**
+     * Called when the activity has detected the user's press of the back key.
+     */
     @Override
     public void onBackPressed() {
         super.onBackPressed();

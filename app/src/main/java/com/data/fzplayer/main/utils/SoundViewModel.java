@@ -11,7 +11,9 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.data.fzplayer.R;
-
+/**
+ * SoundViewModel is a custom view class that represents a sound progress bar.
+ */
 public class SoundViewModel extends View {
     private Paint paint;
     private RectF emptyrectf;
@@ -20,9 +22,21 @@ public class SoundViewModel extends View {
     private int maxprogess = 100;
     private SoundProgressModel soundProgressChangeListner;
 
+    /**
+     * Gets the maximum progress value.
+     *
+     * @return The maximum progress value.
+     */
     public int getMaxprogess() {
+
         return maxprogess;
     }
+
+    /**
+     * Sets the sound progress change listener.
+     *
+     * @param soundProgressChangeListner The sound progress change listener.
+     */
     public void setOnsoundProgressChangeListner(SoundProgressModel soundProgressChangeListner){
         this.soundProgressChangeListner=soundProgressChangeListner;
     }
@@ -55,19 +69,42 @@ public class SoundViewModel extends View {
     private int progesscolor;
     private int currentblockprogesscolor;
     private int stepcolor;
+    /**
+     * Gets the current progress value.
+     *
+     * @return The current progress value.
+     */
     public int getProgress() {
+
         return currentprogess;
     }
-
+    /**
+     * Constructor for the SoundViewModel class.
+     *
+     * @param context The application context.
+     */
     public SoundViewModel(Context context) {
+
         this(context, null);
     }
-
+    /**
+     * Constructor for the SoundViewModel class.
+     *
+     * @param context The application context.
+     * @param attrs The attribute set.
+     */
     public SoundViewModel(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
 
     }
 
+    /**
+     * Constructor for the SoundViewModel class.
+     *
+     * @param context The application context.
+     * @param attrs The attribute set.
+     * @param defStyleAttr The default style attribute.
+     */
     public SoundViewModel(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         if(attrs == null){
@@ -153,7 +190,11 @@ public class SoundViewModel extends View {
         super.onDraw(canvas);
 
     }
-
+    /**
+     * Sets the progress value and invalidates the view to trigger a redraw.
+     *
+     * @param currentprogess The new progress value.
+     */
     public void setProgress(int currentprogess) {
 //        ValueAnimator valueAnimator=ValueAnimator.ofInt(this.currentprogess,currentprogess);
 //        valueAnimator.setDuration(400);

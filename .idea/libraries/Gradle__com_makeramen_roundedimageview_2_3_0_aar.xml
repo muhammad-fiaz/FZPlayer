@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.makeramen:roundedimageview:2.3.0@aar">
+  <library name="Gradle: com.makeramen:roundedimageview:2.3.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1392df8810e55461a09957998540051a/transformed/jetified-roundedimageview-2.3.0/annotations.zip!/" />
     </ANNOTATIONS>

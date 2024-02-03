@@ -18,8 +18,16 @@ import java.util.HashMap;
 import java.util.List;
 
 
-
+/**
+ * Utility class for handling media data.
+ */
 public class Utility {
+    /**
+     * Retrieves all media data from the device.
+     *
+     * @param context The application context.
+     * @return A MediaModel object containing all media data.
+     */
     public static MediaModel getAllMedia(Context context) {
         HashMap<String, List<VideoModel>> listHashMap=new HashMap<>();
         HashMap<String,String> idhash=new HashMap<>();
@@ -61,6 +69,13 @@ public class Utility {
 
         return new MediaModel(listHashMap,idhash);
     }
+
+    /**
+     * Converts milliseconds to a time string in the format HH:MM:SS.
+     *
+     * @param milliseconds The time in milliseconds.
+     * @return A string representing the time.
+     */
     public static String milltominute(long milliseconds) {
         // milliseconds to minutes.
         boolean v = false;
@@ -83,6 +98,15 @@ public class Utility {
 
 
     }
+
+    /**
+     * Checks for new videos that have been added since the last check.
+     *
+     * @param context The application context.
+     * @param videodata A map of video data.
+     * @param idhash A map of video IDs.
+     * @return A map of new videos.
+     */
     public static  HashMap<String,List<String>> checklatest(Context context, HashMap<String, List<VideoModel>> videodata,HashMap<String,String> idhash){
         String[] keyset= (String[]) videodata.keySet().toArray(new String[videodata.size()]);
         SharedPreferences sharedPreferences = context.getSharedPreferences("MySharedPref",MODE_PRIVATE);

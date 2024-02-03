@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.TutorialsAndroid:FilePicker:v8.0.19@aar">
+  <library name="Gradle: com.github.TutorialsAndroid:FilePicker:v8.0.19@aar" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/846d06b6f9b9fd9301bcbde8537da5a9/transformed/jetified-FilePicker-v8.0.19/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/846d06b6f9b9fd9301bcbde8537da5a9/transformed/jetified-FilePicker-v8.0.19/AndroidManifest.xml" />

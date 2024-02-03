@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.firebase:firebase-firestore:24.2.2@aar">
+  <library name="Gradle: com.google.firebase:firebase-firestore:24.2.2@aar" external-system-id="GRADLE">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b69750be811011250efdf0c3ead7dace/transformed/jetified-firebase-firestore-24.2.2/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b69750be811011250efdf0c3ead7dace/transformed/jetified-firebase-firestore-24.2.2/jars/classes.jar!/" />

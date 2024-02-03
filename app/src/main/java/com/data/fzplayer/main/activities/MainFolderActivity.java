@@ -39,7 +39,9 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 
-
+/**
+ * MainFolderActivity is an activity class that represents the main folder screen of the application.
+ */
 public class MainFolderActivity extends AppCompatActivity
 {
     private static final int REQUEST_VIDEO_PERMISSION = 200;
@@ -47,6 +49,11 @@ public class MainFolderActivity extends AppCompatActivity
     private HashMap<String, List<VideoModel>> videodata;
     private HashMap<String, List<String>> latestvideo = new HashMap<>();
 
+    /**
+     * Called when the activity is starting.
+     *
+     * @param savedInstanceState If the activity is being re-initialized after previously being shut down then this Bundle contains the data it most recently supplied in onSaveInstanceState(Bundle).
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -62,18 +69,20 @@ public class MainFolderActivity extends AppCompatActivity
 
         myListAdapter = new MyListAdapter(null);
         folderrecycleview.setAdapter(myListAdapter);
-
-
     }
 
-
-
+    /**
+     * Called after onCreate(Bundle) — or after onRestart() when the activity had been stopped, but is now again being displayed to the user.
+     */
     @Override
     protected void onResume() {
         super.onResume();
         checkPermission();
     }
 
+    /**
+     * Checks if the necessary permissions are granted.
+     */
     private void checkPermission() {
         // Checking if permission is not granted
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.READ_EXTERNAL_STORAGE)
@@ -87,7 +96,11 @@ public class MainFolderActivity extends AppCompatActivity
         }
     }
 
-    // This method is called when the menu icon is clicked
+    /**
+     * Shows a popup menu when the menu icon is clicked.
+     *
+     * @param view The view that was clicked.
+     */
     public void showPopupMenu(View view) {
         PopupMenu popupMenu = new PopupMenu(this, view);
         popupMenu.inflate(R.menu.menu_main);
@@ -109,8 +122,11 @@ public class MainFolderActivity extends AppCompatActivity
             }
         });
         popupMenu.show();
-
     }
+
+    /**
+     * Gets the media data.
+     */
     private void getMediaData() {
         MediaModel mediaModel = Utility.getAllMedia(this);
         videodata = mediaModel.getListHashMap();
@@ -129,9 +145,13 @@ public class MainFolderActivity extends AppCompatActivity
         myListAdapter.notifyDataSetChanged();
     }
 
-    // This function is called when user accepts or declines the permission.
-    // Request Code is used to check which permission called this function.
-    // This request code is provided when the user is prompted for permission.
+    /**
+     * Called when the user responds to the permission request.
+     *
+     * @param requestCode The request code passed in requestPermissions(android.app.Activity, String[], int).
+     * @param permissions The requested permissions.
+     * @param grantResults The grant results for the corresponding permissions which is either PERMISSION_GRANTED or PERMISSION_DENIED.
+     */
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
@@ -146,7 +166,12 @@ public class MainFolderActivity extends AppCompatActivity
         }
     }
 
-    // This method gets the exif orientation of the media file
+    /**
+     * Gets the exif orientation of the media file.
+     *
+     * @param filepath The path of the media file.
+     * @return The orientation of the media file.
+     */
     public static int getExifOrientation(String filepath) {
         int degree = 0;
         ExifInterface exif = null;
@@ -179,6 +204,9 @@ public class MainFolderActivity extends AppCompatActivity
         super.onPointerCaptureChanged(hasCapture);
     }
 
+    /**
+     * MyListAdapter is an inner class that represents the adapter for the RecyclerView.
+     */
     class MyListAdapter extends RecyclerView.Adapter<MyListAdapter.ViewHolder> {
         private String[] listdata;
 
@@ -218,6 +246,9 @@ public class MainFolderActivity extends AppCompatActivity
             return listdata == null ? 0 : listdata.length;
         }
 
+        /**
+         * ViewHolder is an inner class that represents the view holder for the RecyclerView.
+         */
         class ViewHolder extends RecyclerView.ViewHolder {
             public TextView foldernameview;
             public TextView noofvideoview;
