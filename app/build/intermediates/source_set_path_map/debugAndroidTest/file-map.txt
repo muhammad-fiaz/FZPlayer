@@ -1,4 +1,0 @@
-com.data.fzplayer.test.app-androidTest-0 D:\FZ\app\build\generated\res\resValues\androidTest\debug
-com.data.fzplayer.test.app-mergeDebugAndroidTestResources-1 D:\FZ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.data.fzplayer.test.app-mergeDebugAndroidTestResources-2 D:\FZ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.data.fzplayer.test.app-merged_res-3 D:\FZ\app\build\intermediates\merged_res\debugAndroidTest
