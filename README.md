@@ -1,10 +1,10 @@
 <div align="center">
 
 # Fz Player
-[![CodeQL](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql)
 
 ![preview](https://github.com/muhammad-fiaz/FZPlayer/assets/75434191/1523d37e-5c8c-4dda-9eaf-702c05275019)
 
+[![CodeQL](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql)
 [![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
 [![Pull Requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/pulls)
 [![Issues](https://img.shields.io/github/issues/muhammad-fiaz/FZPlayer)](https://github.com/muhammad-fiaz/FZPlayer/issues)
