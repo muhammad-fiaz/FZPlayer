@@ -62,11 +62,8 @@ This project is licensed under the Apache License, Version 2.0. You can find mor
 If you like this template, please consider starring the repository. Your support is appreciated! 💙
 
 Also, if you'd like to offer more support, you can:
-- [BuyMeACoffee](https://buymeacoffee.com/muhammadfiaz)
-- [Patreon](https://patreon.com/muhammadfiaz)
-- [Ko-Fi](https://ko-fi.com/muhammadfiaz)
+
 - [Sponsor on GitHub](https://github.com/sponsors/muhammad-fiaz)
-- [Open Collective Backer](https://opencollective.com/muhammadfiaz)
 
 
 
