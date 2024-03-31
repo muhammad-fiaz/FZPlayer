@@ -59,7 +59,7 @@ This project is licensed under the Apache 2.0 License. You can find more details
 
 ## Support
 
-If you like this template, please consider starring the repository. Your support is appreciated! 💙
+If you like this make sure to ⭐ the repository, Your support is appreciated! 💙
 
 Also, if you'd like to offer more support, you can:
 
