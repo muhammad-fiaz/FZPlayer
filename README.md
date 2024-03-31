@@ -55,7 +55,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standa
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. You can find more details in the [LICENSE](LICENSE) file.
+This project is licensed under the Apache 2.0 License. You can find more details in the [LICENSE](./LICENSE) file.
 
 ## Support
 
