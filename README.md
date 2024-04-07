@@ -2,7 +2,7 @@
 
 # Fz Player
 
-![preview](https://github.com/muhammad-fiaz/FZPlayer/assets/75434191/1523d37e-5c8c-4dda-9eaf-702c05275019)
+![preview](https://github.com/muhammad-fiaz/FZPlayer/assets/75434191/4e7b1a6e-7cd8-47f1-a4f4-32ff9bc53863)
 
 [![CodeQL](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FZPlayer/actions/workflows/github-code-scanning/codeql)
 [![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
